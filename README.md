@@ -1,5 +1,3 @@
-# Profile
-
 
 <h1 align="center">Hi 👋, I'm Khaoula allak</h1>
 <h3 align="center">Future Engineering Student specialized in Big Data and Cloud Computing</h3>
