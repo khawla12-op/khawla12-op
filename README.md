@@ -1,5 +1,30 @@
 
-<h1 align="center">Hi 👋, I'm Khaoula allak</h1>
+
+ <div class="profile">
+    <h1>Khoula Allaki</h1>
+    <h3>Future Engineering Student - Big Data & Cloud Computing</h3>
+    <p> I'm currently learning **Web3 Development.**</p>
+    <img src="https://www.crushpixel.com/big-static15/preview4/closeup-view-dark-trendy-workspace-1997607.jpg" alt="workspace">
+  </div>
+
+  <div class="contact">
+    <h3> How to reach me</h3>
+    <a href="mailto:khawlaallak@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="email" title="khawlaallak@gmail.com">
+    </a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/khaoula-allak-31276a1b8/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn">
+    </a>
+    <a href="https://instagram.com/https://www.instagram.com/allakkhawla/?igshid=zddkntzintm%3d" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" title="Instagram">
+    </a>
+  </div>
+
+  <div class="skills">
+    <h3>⚡ Skills & Tools:</h3>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.
+    <h1 align="center">Hi 👋, I'm Khaoula allak</h1>
 <h3 align="center">Future Engineering Student specialized in Big Data and Cloud Computing</h3>
 
 <p align="left"><img src="https://www.crushpixel.com/big-static15/preview4/closeup-view-dark-trendy-workspace-1997607.jpg"
