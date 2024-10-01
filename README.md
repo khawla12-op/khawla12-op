@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Khaoula ALLAK</h1>
 <h3 align="center">Data Scientist | Big Data & Cloud Computing Engineering Student | Passionate about AI, NLP, and LLMs | Skilled in Real-Time Analytics .</h3>
     
-- 🌐 Pesonal website **khaoulaallak.com**
+- 🌐 Pesonal website  [khaoulaallak.com](https://khaoulaallak.com)
+ 
 
 - 🌱 I’m currently learning **Hadoop,Spark**
 
@@ -23,7 +24,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> 
   </a> 
   
- 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="70" height="70"/> 
   </a> 
@@ -99,6 +99,14 @@
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="70" height="70"/> 
   </a> 
+
+
+
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="70" height="70"/>
+</a>
+
 </p>
 
 
