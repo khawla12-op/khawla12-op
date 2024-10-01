@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Khaoula ALLAK</h1>
-<h3 align="center">Future Engineering Student specialized in Big Data and Cloud Computing</h3>
-<p align="left"><img src="https://www.crushpixel.com/big-static15/preview4/closeup-view-dark-trendy-workspace-1997607.jpg"
-<img alt="coding" src="" width=900px height=400px>
+<h3 align="center">Data Scientist | Big Data & Cloud Computing Engineering Student | Passionate about AI, NLP, and LLMs | Skilled in Real-Time Analytics .</h3>
+    
+- 🌐 Pesonal website **khaoulaallak.com**
 
 - 🌱 I’m currently learning **Hadoop,Spark**
 
